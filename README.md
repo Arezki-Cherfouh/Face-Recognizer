@@ -1,0 +1,1 @@
+A Python script for face verification using the face_recognition library. Compares a known image with an unknown image by encoding facial features and outputs whether they belong to the same person. Simple, accurate, and easy-to-use face matching demo.
